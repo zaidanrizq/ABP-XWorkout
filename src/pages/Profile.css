@@ -1,0 +1,37 @@
+/* src/pages/Profile.css */
+
+.profile-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .profile-info {
+    margin-bottom: 15px;
+  }
+  
+  .profile-info strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .profile-error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .profile-loading {
+    font-style: italic;
+    color: #888;
+  }
+  

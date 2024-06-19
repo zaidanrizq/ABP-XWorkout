@@ -1,0 +1,19 @@
+/* Title.css */
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+  }
+  
+.title .x-gradient {
+    background: linear-gradient(90deg, #92A3FD, #9DCEFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.title .workout {
+    color: #1D1617;
+}
+  

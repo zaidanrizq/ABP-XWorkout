@@ -1,0 +1,47 @@
+.weight-tracker-container {
+    display: flex;
+  }
+  
+  .weight-tracker-content {
+    margin-left: 240px; /* Width of the sidebar */
+    padding: 20px;
+    flex-grow: 1;
+  }
+
+  .weight-tracker-root {
+    max-width: 85%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .weight-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .weight-form input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .weight-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .weight-form button:hover {
+    background-color: #45a049;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  

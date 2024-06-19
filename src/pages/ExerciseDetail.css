@@ -1,0 +1,90 @@
+/* Container for the entire page layout */
+.exercise-detail-page {
+  display: flex;
+}
+
+/* Sidebar styling */
+.sidebar {
+  width: 240px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  height: 100vh; /* Full viewport height */
+  overflow-y: auto; /* Add vertical scroll */
+}
+
+/* Main content area styling */
+.exercise-detail-content {
+  margin-left: 240px; /* Ensure content does not overlap with sidebar */
+  padding: 24px;
+  width: calc(100% - 240px); /* Adjust width to account for sidebar */
+}
+
+/* Grid container styling */
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* Adjust gap as needed */
+}
+
+/* Grid item styling */
+.grid-item {
+  flex: 1 1 calc(25% - 16px); /* Adjust width as needed */
+  box-sizing: border-box;
+}
+
+/* Card styling */
+.card {
+  max-width: 260px; /* Adjust max-width as needed */
+  margin: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Media styling */
+.media {
+  width: 100%;
+  height: 140px; /* Adjust height as needed */
+  object-fit: cover;
+}
+
+/* Card content styling */
+.card-content {
+  padding: 12px; /* Adjust padding as needed */
+}
+
+.exercise-detail-root {
+  max-width: 85%;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+/* Loading container styling */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Loading spinner styling */
+.loading-spinner {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

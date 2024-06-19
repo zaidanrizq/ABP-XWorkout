@@ -1,0 +1,50 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 100vh;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.sidebar-content {
+  padding-top: 64px; /* Adjust based on your app bar height */
+}
+
+.sidebar-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  margin: 16px 0;
+}
+
+.sidebar-link {
+  text-decoration: none;
+  color: black;
+  padding: 16px;
+  display: block;
+}
+
+.sidebar-link:hover {
+  background-color: #ddd;
+}
+
+.signout-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 16px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.signout-button:hover {
+  background-color: #d32f2f;
+}
