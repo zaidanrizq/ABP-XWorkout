@@ -23,10 +23,10 @@
 
 ## Screenshot
 <p align="center">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064304.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064327.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064352.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064431.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Started%20View.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Sign%20Up.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Workout%20View.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Move%20Detail%20View.png?raw=true" width="200">
   <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064550.png?raw=true" width="200">
   <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064620.png?raw=true" width="200">
 </p>
