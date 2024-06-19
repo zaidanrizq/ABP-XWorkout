@@ -1,30 +1,25 @@
 <p align="center"><a href="https://github.com/Xeismonium/Kukuliner" target="_blank"><img src="https://github.com/Xeismonium/Kukuliner/blob/android/app/src/main/res/drawable/logcap.png?raw=true" width="400" alt="Kukuliner Logo"></a></p>
 
-# Kukuliner
-<p align="justify">Kukuliner is a capstone project developed to address the challenge of accessing comprehensive and reliable information about Javanese cuisine. The platform aims to enhance the culinary tourism experience by providing detailed insights into local dishes and their locations, thus supporting local businesses and promoting Java's rich culinary heritage.</p>
+# XWorkout
+<p align="justify">Tujuan dokumen ini dibuat sebagai bentuk laporan Tugas Besar pembentukan aplikasi XWorkout. Selain itu, repository ini juga berguna untuk menyimpan source code program mobile (Flutter) dan web (React).</p>
 
-## Capstone Project Team
-### Team ID: C241-PS080
-| Name | Bangkit-ID | GitHub |
-|--------------------------------|------------|----------------|
-| Muhammad Alfin Fatahillah | M009D4KY1975 | [AlfinFatahilah](https://github.com/AlfinFatahilah) |
-| Nur Isma Alianti | M009D4KX2105 | [Ismaalianti](https://github.com/Ismaalianti) |
-| Tubagus Lingga Qolbuwasi | M318D4KY2683 | [tubaguslingga](https://github.com/tubaguslingga) |
-| Muhammad Alief Pratama | C318D4KY1001 | [M-Alief-P](https://github.com/M-Alief-P) |
-| Muhammad Sopian | C299D4KY1067 | [msopiann](https://github.com/msopiann) |
-| Muhammad Alfan Ghifari | A187D4KY4320 | [Xeismonium](https://github.com/Xeismonium) |
-| Fadly Oktapriadi | A187D4KY4109 | [fadlyoktapriadi](https://github.com/fadlyoktapriadi) |
+## Kelas IF-45-03
+### Anggota Kelompok 2
+| Name | NIM |
+|--------------------------------|------------|
+| Zaidan Rizq (Ketua Kelompok) | 1301213203 |
+| Adhie Haqqi Ramadhan Sutriajie | 1301213312 |
+| Alfaris Faidhan Rizqy | 1301213329 |
+| Athalla Arli Abhinaya | 1301213217 |
+| M. Luthfi Aditya Gunandi | 1301213239 |
 
 ## Repository
 
-### Cloud Computing
-- [Kukuliner-API](https://github.com/Xeismonium/Kukuliner/tree/cloud-computing)
+### Mobile App
+- [Mobile-App](https://github.com/zaidanrizq/ABP-XWorkout/tree/mobile-app)
 
-### Machine Learning
-- [Kukuliner-ML](https://github.com/Xeismonium/Kukuliner/tree/machine-learning)
-
-### Mobile Development
-- [Kukuliner-Android](https://github.com/Xeismonium/Kukuliner/tree/android)
+### Web App
+- [Web-App](https://github.com/zaidanrizq/ABP-XWorkout/tree/web-app)
 
 ## Screenshot
 <p align="center">
