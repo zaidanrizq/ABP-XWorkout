@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063434588297",
+    "project_id": "xworkout-ecfe4",
+    "storage_bucket": "xworkout-ecfe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063434588297:android:799f4754e7e30daf767658",
+        "android_client_info": {
+          "package_name": "com.ThreeKntls.xworkout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMCM5v6i5O6CmQAM9M1ZwiJvFWdeSHShY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
