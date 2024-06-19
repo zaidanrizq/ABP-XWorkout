@@ -27,6 +27,8 @@
   <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Sign%20Up.png?raw=true" width="200">
   <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Workout%20View.png?raw=true" width="200">
   <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/mobile/Move%20Detail%20View.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064550.png?raw=true" width="200">
-  <img src="https://github.com/Xeismonium/Kukuliner/blob/main/screenshots/Screenshot_20240619_064620.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/web/Sign%20Up%20Web.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/web/Workout%20Web.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/web/Weight%20Tracker%20Web.png?raw=true" width="200">
+  <img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/web/Profile%20Web.png?raw=true" width=200>
 </p>
