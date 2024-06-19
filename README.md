@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Xeismonium/Kukuliner" target="_blank"><img src="https://github.com/Xeismonium/Kukuliner/blob/android/app/src/main/res/drawable/logcap.png?raw=true" width="400" alt="Kukuliner Logo"></a></p>
+<p align="center"><a href="https://github.com/Xeismonium/Kukuliner" target="_blank"><img src="https://github.com/zaidanrizq/ABP-XWorkout/blob/main/screenshots/XWorkout.png?raw=true" width="400" alt="Kukuliner Logo"></a></p>
 
 # XWorkout
 <p align="justify">Tujuan dokumen ini dibuat sebagai bentuk laporan Tugas Besar pembentukan aplikasi XWorkout. Selain itu, repository ini juga berguna untuk menyimpan source code program mobile (Flutter) dan web (React).</p>
