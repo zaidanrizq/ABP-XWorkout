@@ -12,7 +12,7 @@
 | Alfaris Faidhan Rizqy | 1301213329 |
 | Athalla Arli Abhinaya | 1301213217 |
 | M. Luthfi Aditya Gunandi | 1301213239 |
-| Thoriq Dwi Laksono | 130121320556 |
+| Thoriq Dwi Laksono | 1301210556 |
 
 ## Repository
 
